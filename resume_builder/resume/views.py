@@ -38,7 +38,7 @@ def resumeFill(request):
 
         'personform': PersonForm(),
         'educationform': EducationForm(),
-        'projectOrJobform': ProjectOrJob(),
+        'projectOrJobform': ProjectOrJobForm(),
         'professionalSkillsform': ProfessionalSkillsForm(),
         'academicsform': AcademicsForm(),
         'areaOfInterestform': AreaOfInterestForm(),
